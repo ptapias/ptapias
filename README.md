@@ -1,21 +1,22 @@
-# Hola, soy Pablo 👋
+# Hey, I'm Pablo 👋
 
-Desarrollador apasionado por la IA y la automatización. Aquí están mis proyectos personales:
-
----
-
-## 🚀 Mis Proyectos
-
-| # | Proyecto | Descripción | Estado |
-|:-:|----------|-------------|:------:|
-| 1 | [💡 AIdeaVenture](https://github.com/ptapias/AIdeaVenture) | Plataforma IA para generar ideas de negocio basadas en tus experiencias y problemas | 🔨 |
-| 2 | [🍎 NutriPal](https://github.com/ptapias/NutriPal) | App de conteo de calorías con foto + chatbot IA con contexto personalizado | ✅ |
-| 3 | [🤖 ai-edge-sdr](https://github.com/ptapias/ai-edge-sdr) | LinkedIn SDR automatizado con IA - mensajes y follow-ups hiperpersonalizados | ✅ |
-| 4 | [📊 findash](https://github.com/ptapias/findash) | Dashboard financiero personal - PNL por proyecto y flujo de caja | ✅ |
+Developer passionate about AI and automation. Here are my personal projects:
 
 ---
 
-### Leyenda
-- ✅ Activo / Funcional
-- 🔨 En desarrollo / Incompleto
+## 🚀 My Projects
 
+| # | Project | Description | Status |
+|:-:|---------|-------------|:------:|
+| 1 | [💡 AIdeaVenture](https://github.com/ptapias/AIdeaVenture) | AI platform to generate business ideas based on your experiences and problems | 💭 |
+| 2 | [🍎 NutriPal](https://github.com/ptapias/NutriPal) | Calorie tracking app with photo + AI chatbot with personalized macro context | 🗄️ |
+| 3 | [🤖 ai-edge-sdr](https://github.com/ptapias/ai-edge-sdr) | AI-powered LinkedIn SDR - hyper-personalized messages and follow-ups | ✅ |
+| 4 | [📊 findash](https://github.com/ptapias/findash) | Personal finance dashboard - project P&L and cashflow tracking | ✅ |
+| 5 | [📸 ReelForge](https://github.com/ptapias/ReelForge) | Newsletter to Instagram automation - converts text content into posts | ✅ |
+
+---
+
+### Legend
+- ✅ Active / Functional
+- 💭 Concept only / Never built
+- 🗄️ Archived / Discontinued
