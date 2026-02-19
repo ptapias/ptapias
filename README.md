@@ -13,11 +13,13 @@ Developer passionate about AI and automation. Here are my personal projects:
 | 3 | [🤖 ai-edge-sdr](https://github.com/ptapias/ai-edge-sdr) | AI-powered LinkedIn SDR - hyper-personalized messages and follow-ups | ✅ |
 | 4 | [📰 NewsFlow](https://github.com/ptapias/NewsFlow) | Newsletter generation platform - curates news from multiple sources with scheduling and markdown export | ✅ |
 | 5 | [📊 findash](https://github.com/ptapias/findash) | Personal finance dashboard - project P&L and cashflow tracking | ✅ |
-| 6 | [📸 ReelForge](https://github.com/ptapias/ReelForge) | Newsletter to Instagram automation - converts text content into posts | ✅ |
+| 6 | [📸 ReelForge](https://github.com/ptapias/ReelForge) | Newsletter to Instagram automation - converts text content into posts | 🚧 |
+| 7 | [🎯 x-command-center](https://github.com/ptapias/x-command-center) | X content management dashboard - AI-powered replies, posts and viral tweet reformatting | 🚧 |
 
 ---
 
 ### Legend
 - ✅ Active / Functional
+- 🚧 In Development
 - 💭 Concept only / Never built
 - 🗄️ Archived / Discontinued
