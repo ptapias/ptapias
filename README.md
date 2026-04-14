@@ -15,6 +15,7 @@ Developer passionate about AI and automation. Here are my personal projects:
 | 5 | [📊 findash](https://github.com/ptapias/findash) | Personal finance dashboard - project P&L and cashflow tracking | ✅ |
 | 6 | [📸 ReelForge](https://github.com/ptapias/ReelForge) | Newsletter to Instagram automation - converts text content into posts | 🚧 |
 | 7 | [🎯 x-command-center](https://github.com/ptapias/x-command-center) | X content management dashboard - AI-powered replies, posts and viral tweet reformatting | 🚧 |
+| 8 | [🏭 grupo-lappi-dashboard](https://github.com/ptapias/grupo-lappi-dashboard) | Operational dashboard for Grupo Lappí (packaging, 5 plants) - automated PDF extraction, KPI tracking vs objectives, and alerts | 🚧 |
 
 ---
 
