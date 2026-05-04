@@ -1,6 +1,24 @@
 # Hey, I'm Pablo 👋
 
-Developer passionate about AI and automation. Here are my personal projects:
+Developer passionate about AI and automation. I build operating systems for work, content, finance and automation.
+
+---
+
+## 🧭 Current Focus
+
+| Area | What I'm building / operating |
+|------|-------------------------------|
+| Res Group | Core work, operations, strategy and execution |
+| YouTube | Research, scripts, recording and content systems |
+| Newsletter | Twice-weekly writing and publishing workflow |
+| Inner Circle | Product creation and validation with Nathan |
+| AA · Agencia de Automatización | Automation services and systems for companies |
+| Formación | Learning loops, notes and applied practice |
+| SecondBrain Week OS | Personal calendar + kanban + routine system for high-output weekly planning |
+
+---
+
+Here are my main software projects:
 
 ---
 
@@ -16,6 +34,7 @@ Developer passionate about AI and automation. Here are my personal projects:
 | 6 | [📸 ReelForge](https://github.com/ptapias/ReelForge) | Newsletter to Instagram automation - converts text content into posts | 🚧 |
 | 7 | [🎯 x-command-center](https://github.com/ptapias/x-command-center) | X content management dashboard - AI-powered replies, posts and viral tweet reformatting | 🚧 |
 | 8 | [🏭 grupo-lappi-dashboard](https://github.com/ptapias/grupo-lappi-dashboard) | Operational dashboard for Grupo Lappí (packaging, 5 plants) - automated PDF extraction, KPI tracking vs objectives, and alerts | 🚧 |
+| 9 | [🧠 secondbrain-week-os](https://github.com/ptapias/secondbrain-week-os) | Interactive weekly calendar + kanban + placeholders + mobile capture for personal execution planning | 🚧 |
 
 ---
 
