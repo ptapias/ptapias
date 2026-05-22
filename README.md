@@ -16,6 +16,7 @@ Developer passionate about AI and automation. I build operating systems for work
 | Tu Primer Empleado IA | Conversational diagnostic to find realistic AI automation opportunities for non-technical businesses |
 | Formación | Learning loops, notes and applied practice |
 | SecondBrain Week OS | Personal calendar + kanban + routine system for high-output weekly planning |
+| Sponsor Ops | Internal sponsor CRM + Gmail/Bouncer operating system for IA al Día / AI Edge |
 
 ---
 
@@ -37,6 +38,7 @@ Here are my main software projects:
 | 8 | [🏭 grupo-lappi-dashboard](https://github.com/ptapias/grupo-lappi-dashboard) | Operational dashboard for Grupo Lappí (packaging, 5 plants) - automated PDF extraction, KPI tracking vs objectives, and alerts | 🚧 |
 | 9 | [🧠 secondbrain-week-os](https://github.com/ptapias/secondbrain-week-os) | Interactive weekly calendar + kanban + placeholders + mobile capture for personal execution planning | 🚧 |
 | 10 | [🧑‍💼 Encuentra Tu Primer Empleado IA](https://github.com/ptapias/encuentra-tu-primer-empleado-ia) | Conversational MVP that diagnoses business processes, scores AI automation opportunities and stores CRM-ready outcomes | 🚧 |
+| 11 | [🎯 sponsor-ops-internal-tool](https://github.com/ptapias/sponsor-ops-internal-tool) | Internal sponsor operations tool for IA al Día / AI Edge: CRM, Bouncer verification, Gmail draft workflow, follow-up tracking and safe campaign runs | 🚧 |
 
 ---
 
