@@ -39,6 +39,7 @@ Here are my main software projects:
 | 9 | [🧠 secondbrain-week-os](https://github.com/ptapias/secondbrain-week-os) | Interactive weekly calendar + kanban + placeholders + mobile capture for personal execution planning | 🚧 |
 | 10 | [🧑‍💼 Encuentra Tu Primer Empleado IA](https://github.com/ptapias/encuentra-tu-primer-empleado-ia) | Conversational MVP that diagnoses business processes, scores AI automation opportunities and stores CRM-ready outcomes | 🚧 |
 | 11 | [🎯 sponsor-ops-internal-tool](https://github.com/ptapias/sponsor-ops-internal-tool) | Internal sponsor operations tool for IA al Día / AI Edge: CRM, Bouncer verification, Gmail draft workflow, follow-up tracking and safe campaign runs | 🚧 |
+| 12 | [🔥 Motor de Ideas](https://github.com/ptapias/motor-ideas-app) | Local dashboard that spots breakout videos across reference YouTube channels (views/day vs. each channel's own median) and turns them into channel-adapted video ideas, generated with Claude | 🚧 |
 
 ---
 
