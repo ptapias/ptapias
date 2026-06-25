@@ -48,3 +48,10 @@ Here are my main software projects:
 - 🚧 In Development
 - 💭 Concept only / Never built
 - 🗄️ Archived / Discontinued
+
+---
+
+## 📬 Connect
+
+[![YouTube](https://img.shields.io/badge/YouTube-%40pablotapias-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pablotapias)
+[![Newsletter — IA al Día](https://img.shields.io/badge/📬%20Newsletter-IA%20al%20D%C3%ADa-6C47FF?style=for-the-badge)](https://www.ia-aldia.com/)
