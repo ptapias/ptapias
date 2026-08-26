@@ -41,6 +41,7 @@ Here are my main software projects:
 | 11 | [🎯 sponsor-ops-internal-tool](https://github.com/ptapias/sponsor-ops-internal-tool) | Internal sponsor operations tool for IA al Día / AI Edge: CRM, Bouncer verification, Gmail draft workflow, follow-up tracking and safe campaign runs | 🚧 |
 | 12 | [🔥 Motor de Ideas](https://github.com/ptapias/motor-ideas-app) | Local dashboard that spots breakout videos across reference YouTube channels (views/day vs. each channel's own median) and turns them into channel-adapted video ideas, generated with Claude | 🚧 |
 | 13 | [🎬 AI Video Editor](https://github.com/ptapias/editor-video-ia) | Local AI-assisted YouTube editor that incrementally syncs camera + screen, removes silence and repeated takes, and adds branded motion graphics with Remotion | 🚧 |
+| 14 | 🧭 FARO CRM | Local AI-assisted CRM - combines source-backed prospect research, personalized email drafting and human-reviewed follow-up sequences | ✅ |
 
 ---
 
